@@ -1,0 +1,565 @@
+DATA DESCRIPTION
+
+You can find the dataset here. You have to predict the column name "Price" and please submit in the format given in the “Sample_Submission.csv” file and save it as result.csv.
+
+COLUMN DESCRIPTION
+
+Sl. No
+	
+
+Column Label
+	
+
+Column Description
+
+1
+	
+
+ID
+	
+
+A calculated unique ID for each research.
+
+2
+	
+
+Date
+	
+
+Date of the Event
+
+3
+	
+
+Company
+	
+
+Name of the Company
+
+4
+	
+
+SMA
+	
+
+Simple Moving Average
+
+5
+	
+
+EMA
+	
+
+Exponential Moving Average
+
+6
+	
+
+WMA
+	
+
+Ways and Means Advances 
+
+7
+	
+
+DEMA
+	
+
+Double Exponential Moving Average 
+
+8
+	
+
+TEMA
+	
+
+Triple Exponential Moving Average
+
+9
+	
+
+TRIMA
+	
+
+Triangular Moving Average
+
+10
+	
+
+KAMA
+	
+
+Kaufman's Adaptive Moving Average
+
+11
+	
+
+FAMA
+	
+
+F Adaptive Moving Average
+
+12
+	
+
+MAMA
+	
+
+MESA Adaptive Moving Average
+
+13
+	
+
+T3
+	
+
+T3 Moving Average
+
+14
+	
+
+MACD
+	
+
+Moving Average Convergence Divergence
+
+15
+	
+
+MACD_Hist
+	
+
+Moving Average Convergence Divergence Histogram
+
+16
+	
+
+MACD_Signal
+	
+
+Moving Average Convergence Divergence Signal
+
+17
+	
+
+MAC
+	
+
+Moving Average Convergence
+
+18
+	
+
+MAC_Hist
+	
+
+Moving Average Convergence Histogram
+
+19
+	
+
+MAC_Signal
+	
+
+Moving Average Convergence Signal
+
+20
+	
+
+SlowD
+	
+
+Slow Stochastic Oscillator Second Line
+
+21
+	
+
+SlowK
+	
+
+Slow Stochastic Oscillator Main Line
+
+22
+	
+
+FastD
+	
+
+Fast Stochastic Oscillator Second Line
+
+23
+	
+
+FastK
+	
+
+Fast Stochastic Oscillator Main Line
+
+24
+	
+
+RSI
+	
+
+Relative Strength Index
+
+25
+	
+
+FatD
+	
+
+Fast Stochastic Second Line
+
+26
+	
+
+FatK
+	
+
+Fast Stochastic Main Line
+
+27
+	
+
+WILLR
+	
+
+WILLR
+
+28
+	
+
+ADX
+	
+
+Average Directional Index
+
+29
+	
+
+ADXR
+	
+
+Average Directional Index Rating
+
+30
+	
+
+APO
+	
+
+Absolute Price Oscillator
+
+31
+	
+
+PPO
+	
+
+Percentage Price Oscillator
+
+32
+	
+
+MOM
+	
+
+Momentum Indicator
+
+33
+	
+
+BOP
+	
+
+Balance of Power
+
+34
+	
+
+CCI
+	
+
+Commodity Channel Index
+
+35
+	
+
+CMO
+	
+
+Chande Momentum Oscillator
+
+36
+	
+
+ROC
+	
+
+Rate of Change
+
+37
+	
+
+ROCR
+	
+
+Rate of Change Rating
+
+38
+	
+
+Aroon Down
+	
+
+Aroon Oscillator Down
+
+39
+	
+
+Aroon Up
+	
+
+Aroon Oscillator Up
+
+40
+	
+
+AROONOSC
+	
+
+Aroon Oscillator
+
+41
+	
+
+MFI
+	
+
+Money Flow Index
+
+42
+	
+
+TRIX
+	
+
+Triple-Smoothed Exponential Moving Average
+
+43
+	
+
+ULTOSC
+	
+
+Ultimate Oscillator Definition and Strategies
+
+44
+	
+
+DX
+	
+
+Directional Movement Index
+
+45
+	
+
+MINUS_DI
+	
+
+Minus Directional Index
+
+46
+	
+
+PLUS_DI
+	
+
+Plus Directional Index
+
+47
+	
+
+MINUS_DM
+	
+
+Minus Directional Movement Index
+
+48
+	
+
+PLUS_DM
+	
+
+Plus Directional Movement Index
+
+49
+	
+
+Real Lower Band
+	
+
+Relative Strength Index – Lower Band
+
+50
+	
+
+Real Middle Band
+	
+
+Relative Strength Index – Middle Band
+
+51
+	
+
+Real Upper Band
+	
+
+Relative Strength Index –High Band
+
+52
+	
+
+MIDPOINT
+	
+
+The Midpoint calculation is like the Midprice, except the highest and lowest values are returned from the same input field.
+
+53
+	
+
+MIDPRICE
+	
+
+Average (Highest Close - Lowest Close) within the look back period.
+
+54
+	
+
+SAR
+	
+
+The Parabolic Stop and Reverse (SAR) calculates trailing stop points to use with long and short positions.
+
+55
+	
+
+TRANGE
+	
+
+TRANGE
+
+56
+	
+
+ATR
+	
+
+Average True Range
+
+57
+	
+
+NATR
+	
+
+Normalized Average True Range
+
+58
+	
+
+Chaikin A/D
+	
+
+Developed by Marc Chaikin, the Accumulation Distribution Line is a volume-based indicator designed to measure the cumulative flow of money into and out of a security. Chaikin originally referred to the indicator as the Cumulative Money Flow Line.
+
+59
+	
+
+ADOSC
+	
+
+Accumulation/distribution Oscillator SC
+
+60
+	
+
+OBV
+	
+
+On-balance volume
+
+61
+	
+
+HT_TRENDLINE
+	
+
+HT_TRENDLINE
+
+62
+	
+
+LEAD SINE
+	
+
+LEAD SINE
+
+63
+	
+
+SINE
+	
+
+SINE
+
+64
+	
+
+TRENDMODE
+	
+
+TRENDMODE
+
+65
+	
+
+DCPERIOD
+	
+
+DCPERIOD
+
+66
+	
+
+HT_DCPHASE
+	
+
+HT_DCPHASE
+
+67
+	
+
+PHASE
+	
+
+PHASE
+
+68
+	
+
+QUADRATURE
+	
+
+QUADRATURE
+
+69
+	
+
+Price
+	
+
+Stock’s Price
